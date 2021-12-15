@@ -1,0 +1,79 @@
+{
+    "isNBAFranchise": {
+        "0": false,
+        "1": false,
+        "2": false,
+        "3": false,
+        "4": false
+    },
+    "isAllStar": {
+        "0": true,
+        "1": true,
+        "2": true,
+        "3": true,
+        "4": true
+    },
+    "city": {
+        "0": "USA",
+        "1": "World",
+        "2": "Team",
+        "3": "Team",
+        "4": "Team Giannis"
+    },
+    "altCityName": {
+        "0": "USA",
+        "1": "World",
+        "2": "Team",
+        "3": "Team",
+        "4": "Team Giannis"
+    },
+    "fullName": {
+        "0": "USA",
+        "1": "World",
+        "2": "All-Stars",
+        "3": "All-Stars",
+        "4": "Team Giannis"
+    },
+    "tricode": {
+        "0": "USA",
+        "1": "WLD",
+        "2": "EST",
+        "3": "WST",
+        "4": "GNS"
+    },
+    "teamId": {
+        "0": "1610616843",
+        "1": "1610616844",
+        "2": "1699999999",
+        "3": "1699999998",
+        "4": "1610616833"
+    },
+    "nickname": {
+        "0": "USA",
+        "1": "World",
+        "2": "All-Stars",
+        "3": "All-Stars",
+        "4": "Team Giannis"
+    },
+    "urlName": {
+        "0": "usa",
+        "1": "world",
+        "2": "assn_away",
+        "3": "assn_home",
+        "4": "team_giannis"
+    },
+    "confName": {
+        "0": "East",
+        "1": "East",
+        "2": "East",
+        "3": "West",
+        "4": "East"
+    },
+    "divName": {
+        "0": "East",
+        "1": "East",
+        "2": "East",
+        "3": "West",
+        "4": "East"
+    }
+}
