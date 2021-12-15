@@ -1,0 +1,3 @@
+SELECT FirstName, Country
+FROM customers
+WHERE country = 'Brazil'

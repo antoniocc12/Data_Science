@@ -1,0 +1,8 @@
+#El objetivo del git ignore es que ningun archivo que se sube aqui va a ser subido al git hub
+
+# para no subir ningun archivo que en nuestro proyecto que contenga password se va a subir al git hub
+*password*
+
+
+# Byte compilate
+
